@@ -11,4 +11,5 @@
 
 6.MySql is used for Database
 
-7.MySql WorkBench is used for handling that DB
+7.MySql WorkBench is used for handling that DB\n
+8.Finding a way to convert it into .exe
