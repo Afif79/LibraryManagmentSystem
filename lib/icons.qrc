@@ -1,0 +1,12 @@
+<RCC>
+  <qresource>
+    <file>icons/home.png</file>
+    <file>icons/book.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/books.png</file>
+    <file>icons/back.jpg</file>
+    <file>icons/man.png</file>
+	<file>icons/admin.png</file>
+	<file>icons/library.png</file>
+  </qresource>
+</RCC>
